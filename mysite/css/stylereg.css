@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Capture it;
+    src: url(../fonts/capture-it_36d8e4bafcd0d3bd809b9d12e819982e.ttf), url(../fonts/capture-it_36d8e4bafcd0d3bd809b9d12e819982e.woff);
+}
+
+.reg {
+    margin: 250px auto 0px
+}
+
+.form {
+    margin: 0px auto 0px;
+    width: 500px;
+    height: 200px;
+    background-color: skyblue;
+    border-radius: 100px;
+    padding: 50px 50px 50px 50px;
+    background-image: url(../img/cloud1.png);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+body {
+    font-family: capture it;
+    margin: 0px;
+}
+
+ul {
+    display: inline;
+}
+
+.form {
+    font-family: sans-serif;
+}
+
+.regref {
+    text-align: center;
+    margin: 0px auto;
+}

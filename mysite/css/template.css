@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    margin: 0px;
+}
+
+.content {
+    margin: 0px auto -350px auto;
+    width: 700px;
+    height: 1100px;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+
+.mid {
+    width: 600px;
+    height: 900px;
+    margin: 0px auto 0px auto;
+    background-color: azure;
+    text-align: justify;
+}
+
+.navig {
+    position: absolute;
+    color: black;
+    margin: 10px;
+}
+
+.navig:hover {
+    background-color: skyblue;
+    border-radius: 10%;
+}

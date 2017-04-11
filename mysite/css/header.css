@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Capture it;
+    src: url(../fonts/capture-it_36d8e4bafcd0d3bd809b9d12e819982e.ttf), url(../fonts/capture-it_36d8e4bafcd0d3bd809b9d12e819982e.woff);
+}
+
+
+/* --- Меню --- */
+
+.menu li {
+    display: inline;
+    color: snow;
+}
+
+.menu ul {
+    text-align: right;
+    display: block;
+}
+
+.menu a:hover {
+    background-color: skyblue;
+    padding: 10px;
+    border-radius: 40px;
+    color: black;
+    text-decoration: none;
+}
+
+.menu {
+    padding: 1px 20px 2px 20px;
+    font-family: capture it;
+    font-size: 14px;
+    background-color: steelblue;
+}
+
+.menu a:active {
+    background-color: deepskyblue;
+}
+
+.menu a {
+    color: snow;
+    text-decoration: none;
+}
+
+
+/* ------------ */
